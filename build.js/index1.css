@@ -1,0 +1,15 @@
+/*!********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./styles/index.css ***!
+  \********************************************************************/
+h1{
+    color:red;
+    text-align: center;
+    text-decoration: underline 2px;
+}
+/*!******************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./styles/app.css ***!
+  \******************************************************************/
+p{
+    color: royalblue;
+    font-size: larger;
+}
